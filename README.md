@@ -31,3 +31,15 @@ The Portfolio Analyzer is designed to help investors analyze their investment po
 2. Install the required dependencies:
     ```bash
    pip install -r requirements.txt
+
+## Usage
+1. Prepare your tradebook CSV file with the following columns: symbol, isin, trade_type, quantity, price, trade_date. or download from trading app.
+2. Run portfolio_analyzer.py file using below command
+   ```bash
+   python portfolio_analyzer.py
+
+## Contributing
+Contributions are welcome! Please feel free to submit pull requests.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
