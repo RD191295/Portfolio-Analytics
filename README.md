@@ -1,5 +1,8 @@
 # Portfolio Analyzer
 
+[![GitHub release](https://img.shields.io/github/v/release/Rd191295/portfolio-analyzer.svg)](https://github.com/Rd191295/Portfolio-Analytics/releases)
+[![Python version](https://img.shields.io/badge/python-3.11%20%7C%203.10%20%7C%203.9-blue)](https://www.python.org/downloads/)
+
 <p align="center">
   <img src="https://github.com/RD191295/Portfolio-Analytics/blob/main/maxresdefault.jpg" alt="Portfolio Analyzer Logo" width="1280" height="420">
 </p>
